@@ -1,1 +1,2 @@
 - 🌱 +3 years of experience in Solidity and Web3JS.
+- 🌱 +6 years of experiecne in React and NodeJs
