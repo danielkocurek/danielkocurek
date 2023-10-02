@@ -7,12 +7,18 @@ With 8+ years of full-stack web development experience for global businesses, I 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saint-prince&label=Profile%20views&color=0e75b6&style=flat" alt="saint-prince" /> </p>
  <div style="text-align: center;"><h1>My Skills</h1></div>
   <ul>
+    <li>Languages: JavaScript, Go, PHP</li>
     <li>Front-End: React.js, Angular, Vue.js, Svelte</li>
-    <li>Back-End: NodeJS/ExpressJS, Django, Laravel, Nestjs</li>
-    <li>Mobile:React Native, Flutter</li>
-    <li>Database Programming: MySQL, MongoDB, PostgreSQL, MS SQL, SQLite</li>
+    <li>Back-End: NodeJS/ExpressJS, Laravel, Gin(Go), Echo(Go)</li>
+    <li>API & Microservices: RESTful APIs, GraphQL, gRPC, RabbitMQ, Apache Kafka</li>
+    <li>Monitoring & Logging: Prometheu, Grafana, ELK Stack</li>
+    <li>DevOps & CI/CD: Docker, Kubernetes, Jenkins</li>
+    <li>Security & Access Control: OAuth, JWT, Role-Based Access Control</li>
+    <li>Cloud Services: AWS, GCP, Azure</li>
+    <li>Mobile: React Native, Flutter</li>
+    <li>Databases: MySQL, MongoDB, PostgreSQL, MS SQL, SQLite, Redis</li>
     <li>BlockChain: Bitcoin, Ethereum, Ethereum 2.0, Solidity, ERC(BEP)20/721/1155, Stable Coin, Binance, UniSwap(SushiSwap), Staking Pool, Mining Pool, Dapp, Web3.js, Ether.js</li>
-    <li>Other: Git, SVN, Jira, Trello, Docker, Jenkins, Jestjs, Jasmine,Selenium, GCP, AWS, Firebase, Three.js</li>
+    <li>Other: Git, SVN, Jira, Trello, Jasmine, Selenium, Firebase, Three.js</li>
 <table>
   <tr>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/react-3772319-3151445.png" width="100"></td>
