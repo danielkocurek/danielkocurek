@@ -7,9 +7,9 @@ With 8+ years of full-stack web development experience for global businesses, I 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saint-prince&label=Profile%20views&color=0e75b6&style=flat" alt="saint-prince" /> </p>
  <div style="text-align: center;"><h1>My Skills</h1></div>
   <ul>
-    <li>Languages: JavaScript, Go, PHP</li>
+    <li>Languages: JavaScript, Go, Java, PHP</li>
     <li>Front-End: React.js, Angular, Vue.js, Svelte</li>
-    <li>Back-End: NodeJS/ExpressJS, Laravel, Gin(Go), Echo(Go)</li>
+    <li>Back-End: NodeJS/ExpressJS, Laravel, Gin(Go), Echo(Go), Spring</li>
     <li>API & Microservices: RESTful APIs, GraphQL, gRPC, RabbitMQ, Apache Kafka</li>
     <li>Monitoring & Logging: Prometheu, Grafana, ELK Stack</li>
     <li>DevOps & CI/CD: Docker, Kubernetes, Jenkins</li>
